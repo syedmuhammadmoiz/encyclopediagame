@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557580363 source:c:\users\syedm\desktop\second semester\oop\mara project\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+
